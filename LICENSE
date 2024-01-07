@@ -618,6 +618,11 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
+  18. Please Give to Charity if You Financially Profit From My Work
+
+  I strongly believe in CopyLeft, Open Source, Free and Open Source Software (FOSS), and supporting reputable, appropriately registered, quality controlled and independently audited, international charities. I am developing software, code, scripts, and associated documentation, that I wish people and organisations to be able to use, reuse and alter. But if they use my work, I wish to be expressly acknowledged and given credit, and to have my values and requirements that are clearly stated herein, to be honoured, and acknowledged, in their derivatives, for probity. Though, for the most part I acknowledge, that this line-item 18, is not legally enforceable, but an entreaty. In summary, I entreat people or organisations that use, reuse or alter my code or documentation for commercial purposes or financial gain, that at the end of every financial year, they give 10% of the revenue of their product that utilises my work, to a defensible and reputable, international charity, that is quality controlled, appropriately registered and independently audited.
+
+
                      END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
@@ -631,8 +636,9 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    sssdir, is a Zsh code snippet, that...
+    Copyright (C) 2024  Beauford A. Stenberg (aka b9Joker108@GitHub and 
+    my contact details may be found there, if required.) 
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -652,7 +658,8 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
+    sssdir  Copyright (C) 2024  Beauford A. Stenberg (aka b9Joker108@GitHub
+    and my contact details may be readily found there.)  
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
