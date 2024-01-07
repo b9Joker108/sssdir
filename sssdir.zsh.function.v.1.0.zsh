@@ -7,14 +7,14 @@
 # directory search. This script defines a function called sssdir that allows the user to select a
 # directory using fzf, a command-line fuzzy finder. The function also uses a history file to keep
 # track of the directories the user has visited and rank them based on frequency and recency. The
-# function also includes an animated indicator õ to show the progress of the search.
+# function also includes an animated indicator to show the progress of the search.
 # The function can be invoked with or without an argument. If an argument is supplied, it will be
 # used as a query to search for directories. If no argument is supplied, it will use the history
 # file to present the most relevant directories.
 #
 # **************************************************×*******************************************
 #
-# DATE:                 Sunday January 7, 2023
+# DATE:                 Sunday January 7, 2024
 # WRITER:               Beauford A. Stenberg
 # PROJECT NAME:         sssdir (v.1.0)
 # WEBJOURNAL:           https://hashnode.com/@b9Joker108
