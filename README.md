@@ -1,7 +1,19 @@
 # sssdir
 
 Zsh code snippet: sssdir is a function to augment &amp; automate Termux commandline 
-directory search in Android
+directory search in Android. 
+
+**Apologetics:** As I am very new to GitHub, scripting, coding, programming and software 
+engineering in general, I didnt know about GitHub Gists or the like, as different to the full 
+architecture and apparatus of GitHub repositories. I now understand code snippets and scripts 
+generally, well at minimum smaller more modest scripts, are best housed in the more economical 
+Gist forum, within GitHub. I now know this going forward. But, as I have already inaugurated 
+and instituted dedicated,separate repositories, for both my Zsh and Bash scripting endeavours, 
+intentionally envisioned as showcases of the scripts I am most proud of, I will still honour 
+these two script repositories and populate them directly, as I progress along with roadtesting 
+the shell scripting roadmap that is 'A Fable of the Scriptkiddie Scriptoria'. For the interim, 
+I have parked this particular script herewith, but will return to it and complete a workable 
+prototype, as it is my first true scripting initiative.
 
 # Version
 
