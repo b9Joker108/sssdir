@@ -62,7 +62,7 @@ and assistance, was this scripted directory/file searching CLI enhancement for T
 metrics and dynamic algorithms of frequency and recency, of directories accessed. I didn't produce 
 a bug-free implementation or prototype, and parked it, due to frustration in my own ineptitude and 
 incapacity. Now, I find tale tell and mention, of exactly that functionality, which has been 
-realised by agkozak with the Zsh plugin, namely the Zsh-z plugin *giggle*. How wonderful! Now, I 
+realised by agkozak with the Zsh language, namely the Zsh-z plugin *giggle*. How wonderful! Now, I 
 can peak under the hood, and study the logical and workable Zsh language logic, syntax and solution 
 in its shell implementation. 
 
