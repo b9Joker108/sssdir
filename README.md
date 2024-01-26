@@ -66,5 +66,5 @@ realised by agkozak with the Zsh plugin, namely the Zsh-z plugin *giggle*. How w
 can peak under the hood, and study the logical and workable Zsh language logic, syntax and solution 
 in its shell implementation. 
 
-Refer: MASTODON: @agkozak@fosstodon.org 
+Refer: MASTODON: https://fosstodon.org/@agkozak
 
