@@ -55,3 +55,9 @@ Deliverable:
 Updated script with improved history management and a more polished animated 
 search indicator. Refined code comments and annotations detailing optimisations made.
 
+ANNOTATION:
+
+My rather ambitious first attempt at Zsh or Z shell scripting, augmented by GenAI code generation and assistance, was a directory/file searching CLI enhancement for Termux, founded on metrics and dynamic algorithms of frequency and recency of directories accessed. I didn't produce a bug-free prototype and parked it, due to frustration in my own ineptitude and incapacity. Now, I find tale tell and mention of exactly that functionality, which has been realised by agkozak with the Zsh plugin, Zsh-z plugin *giggle*. How wonderful!
+
+Refer: MASTODON: @agkozak@fosstodon.org 
+
